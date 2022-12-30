@@ -41,4 +41,4 @@ El patrón Abstract Factory nos ofrece una interfaz para crear objetos a partir 
 * Puede ser que el código se complique más de lo que debería, ya que se introducen muchas nuevas interfaces y clases junto al patrón.
 
 ## 📔 Créditos
-<a href="https://refactoring.guru/design-patterns"> https://refactoring.guru/design-patterns </a>
+<a href="https://refactoring.guru/es/design-patterns"> https://refactoring.guru/es/design-patterns </a>
