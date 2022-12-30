@@ -1,8 +1,9 @@
 ## 📌 Propósito
 
 Abstract Factory es un patrón de diseño creacional que nos permite producir familias de objetos relacionados sin especificar sus clases concretas.
+
 <p align="center">
-<img alt="abstract_factory" width="800" src="https://refactoring.guru/images/patterns/content/abstract-factory/abstract-factory-es-2x.png" />
+<img alt="abstract_factory" width="500" src="https://refactoring.guru/images/patterns/content/abstract-factory/abstract-factory-es-2x.png" />
 </p>
 
 ## 💡 Aplicabilidad
